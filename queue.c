@@ -30,7 +30,7 @@ int main()
         case 4:
             exit(0);
         default:
-            printf("\nEnter a Valid Choice");
+            printf("\nEnter a correct Choice");
         }
     }
     return 0;
