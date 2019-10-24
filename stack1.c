@@ -5,7 +5,7 @@ int a[N],top=-1;
 void push();
 void pop();
 void traversal();
-
+//hh
 int main()
 {
 int c;
