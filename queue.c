@@ -5,6 +5,7 @@ typedef struct queue
     int info;
     struct queue *next;
 }queue;
+//saurav
 void enqueue(queue **);
 void dequeue(queue **);
 void display(queue **);
