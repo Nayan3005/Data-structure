@@ -4,7 +4,7 @@
 #include<math.h>
 #define N 5
 int a[5],i=-1;
-
+//saurav
 void insertbeg();
 void insertmid();
 void insertlast();
@@ -61,6 +61,7 @@ main()
 					case 2:
 						displaylast();
 						break;
+						//purbia
 				}
 				break;
 				
@@ -68,7 +69,7 @@ main()
 				exit(0);
 				
 			default :
-				printf("\n Enter A Valid Choice");
+				printf("\n Enter A good Choice");
 		}
 	}
 }
