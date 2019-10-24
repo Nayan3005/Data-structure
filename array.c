@@ -69,7 +69,7 @@ main()
 				exit(0);
 				
 			default :
-				printf("\n Enter A Valid Choice");
+				printf("\n Enter A good Choice");
 		}
 	}
 }
